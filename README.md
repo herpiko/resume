@@ -19,8 +19,8 @@ https://tuanpembual.wordpress.com
 ## Additional experience
 
 -  Documentation Team, BlankOn Project, September 2012 - Present.
-- Event Coordinator Committee, openSUSE Asia Summit 2016, Dec 2015 - Oct 2016.
-- Event Coordinator Committee, GNOME. Asia Summit 2015, Dec 2014 - June 2015.
+- Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
+- Event Coordinator Committee, GNOME.Asia Summit 2015, Dec 2014 - June 2015.
 
 ## Languages and technologies
 
