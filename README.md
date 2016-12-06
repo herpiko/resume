@@ -34,4 +34,4 @@ https://tuanpembual.wordpress.com
 - Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
 - Ahmad Haris. Founder KodeKreatif. ahmadharis@gnome.org.
 - Deny Prasetyo. Java Dev. jasoet87@gmail.com.
-- M. Iqbal Jalaluddin. IT Support GAMELOFT. muhammad.jalaluddin@gameloft.com.
+- M. Iqbal Jalaluddin. IT Supervisor of Gameloft South-East Asia. muhammad.jalaluddin@gameloft.com.
