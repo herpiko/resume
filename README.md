@@ -9,7 +9,8 @@ https://tuanpembual.wordpress.com
 
 ## Employment
 
-- DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - present.
+- Senior DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
+- DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
 - System Administrator, Boer Technology https://btech.id June 2014 - Dec 2015.
 
 ## Education
@@ -18,7 +19,7 @@ https://tuanpembual.wordpress.com
 
 ## Additional experience
 
--  Documentation Team, BlankOn Project, September 2012 - Present.
+- Documentation Team, BlankOn Project, September 2012 - Present.
 - Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
 - Event Coordinator Committee, GNOME.Asia Summit 2015, Dec 2014 - June 2015.
 
