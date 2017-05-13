@@ -1,6 +1,6 @@
-### Estu Fardani
+## Estu Fardani
 
-- Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu
+**Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu**
 
 +62 856 43214898  
 estu@jogja.linux.or.id  
