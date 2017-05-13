@@ -1,6 +1,6 @@
 ### Estu Fardani
 
-- Release Manager of BlankOn Uluwatu | https://github.com/blankon/Uluwatu
+- Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu
 
 +62 856 43214898  
 estu@jogja.linux.or.id  
@@ -10,6 +10,7 @@ https://tuanpembual.wordpress.com
 ## Employment
 
 - Senior DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
+- DevOps Master, Binar Academy https://binar.co.id March 2017 - Present.
 - DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
 - System Administrator, Boer Technology https://btech.id June 2014 - Dec 2015.
 
@@ -19,7 +20,7 @@ https://tuanpembual.wordpress.com
 
 ## Additional experience
 
-- PR Team, BlankOn Project, Aug 2016 - Jan 2-17.
+- PR Team, BlankOn Project, Aug 2016 - Jan 2017.
 - Documentation Team, BlankOn Project, September 2012 - Aug 2016.
 - Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
 - Event Coordinator Committee, GNOME.Asia Summit 2015, Dec 2014 - June 2015.
@@ -27,13 +28,16 @@ https://tuanpembual.wordpress.com
 ## Languages and technologies
 
 - Python, Ruby.
-- Continuous Integration, Chef, Vagrant, Docker, Jenkins.
+- Continuous Integration, Chef, Ansible, Vagrant, Docker, Jenkins.
+- Automated Testing, Calabash, Cucumber, Gherkin.
+- Cloud Provider, AWS, DO, GCE.
 
 ## References
 
-- Lutvi Rosyady. Head of Product at GO-JEK Indonesia. lutvi@go-jek.com.
+- Alamanda Shantika, CEO of Binar Academy, ashantika@binar.co.id.
+- Tonny Tonny Sabastian, CTO of Peentar, tonny@peentar.com.
+- Lutvi Rosyady. Head of Product at GO-JEK Indonesia. moorails@gmail.com.
 - Utian Ayuba. Executive Director of Btech. utian@btech.id.
 - Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
 - Ahmad Haris. Founder KodeKreatif. ahmadharis@gnome.org.
 - Deny Prasetyo. Java Dev. jasoet87@gmail.com.
-- M. Iqbal Jalaluddin. IT Supervisor of Gameloft South-East Asia. muhammad.jalaluddin@gameloft.com.
