@@ -35,7 +35,7 @@ https://tuanpembual.wordpress.com
 ## References
 
 - Alamanda Shantika, CEO of Binar Academy, ashantika@binar.co.id.
-- Tonny Tonny Sabastian, CTO of Peentar, tonny@peentar.com.
+- Tonny Adhi Sabastian, CTO of Peentar, tonny@peentar.com.
 - Lutvi Rosyady. Head of Product at GO-JEK Indonesia. moorails@gmail.com.
 - Utian Ayuba. Executive Director of Btech. utian@btech.id.
 - Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
