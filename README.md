@@ -5,12 +5,13 @@
 +62 856 43214898  
 estu@jogja.linux.or.id  
 https://github.com/tuanpembual  
+https://linkedin.com/in/tuanpembual/  
 https://tuanpembual.wordpress.com
 
 ## Employment
 
 - Senior DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
-- DevOps Master, Binar Academy https://binar.co.id March 2017 - Present.
+- DevOps Master and Mentor, Binar Academy https://binar.co.id March 2017 - Present.
 - DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
 - System Administrator, Boer Technology https://btech.id June 2014 - Dec 2015.
 
