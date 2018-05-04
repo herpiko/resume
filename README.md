@@ -21,17 +21,17 @@ https://tuanpembual.wordpress.com
 
 ## Additional experience
 
-- PR Team, BlankOn Project, Aug 2016 - Jan 2017.
+- Public Relation Team, BlankOn Project, Aug 2016 - Jan 2017.
 - Documentation Team, BlankOn Project, September 2012 - Aug 2016.
 - Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
 - Event Coordinator Committee, GNOME.Asia Summit 2015, Dec 2014 - June 2015.
 
 ## Languages and technologies
 
-- Python, Ruby.
-- Continuous Integration, Chef, Ansible, Vagrant, Docker, Jenkins.
-- Automated Testing, Calabash, Cucumber, Gherkin.
-- Cloud Provider, AWS, DO, GCE.
+- Automation: Ansible, Chef
+- CI/CD: Gitlab-CI, Jenkins,
+- Cloud Provider: AWS, GCE
+- Automated Testing: Calabash, Cucumber, Gherkin.
 
 ## References
 
@@ -40,5 +40,3 @@ https://tuanpembual.wordpress.com
 - Lutvi Rosyady. Head of Product at GO-JEK Indonesia. moorails@gmail.com.
 - Utian Ayuba. Executive Director of Btech. utian@btech.id.
 - Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
-- Ahmad Haris. Founder KodeKreatif. ahmadharis@gnome.org.
-- Deny Prasetyo. Java Dev. jasoet87@gmail.com.
