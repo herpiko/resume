@@ -3,7 +3,7 @@
 **Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu**
 
 +62 856 43214898  
-estu@jogja.linux.or.id  
+estu@blankon.id  
 https://github.com/tuanpembual  
 https://linkedin.com/in/tuanpembual/  
 https://tuanpembual.wordpress.com
@@ -29,7 +29,7 @@ https://tuanpembual.wordpress.com
 ## Languages and technologies
 
 - Automation: Ansible, Chef
-- CI/CD: Gitlab-CI, Jenkins,
+- CI/CD: Gitlab-CI, Jenkins
 - Cloud Provider: AWS, GCE
 - Automated Testing: Calabash, Cucumber, Gherkin.
 
