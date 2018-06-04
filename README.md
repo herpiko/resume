@@ -1,6 +1,6 @@
 ## Estu Fardani
 
-**Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu**
+**System Engineer**
 
 +62 856 43214898  
 estu@blankon.id  
@@ -12,6 +12,7 @@ https://tuanpembual.wordpress.com
 
 - Senior DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
 - DevOps Master and Mentor, Binar Academy https://binar.co.id March 2017 - Present.
+- Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu Feb 2017 - May 2018
 - DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
 - System Administrator, Boer Technology https://btech.id June 2014 - Dec 2015.
 
