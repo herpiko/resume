@@ -1,43 +1,39 @@
-## Estu Fardani
+## Herpiko Dwi Aguno
 
-**System Engineer**
+**Software Developer**
 
-+62 856 43214898  
-estu@blankon.id  
-https://github.com/tuanpembual  
-https://linkedin.com/in/tuanpembual/  
-https://tuanpembual.wordpress.com
++62 81916010121<br>
+herpiko@gmail.com<br>
+https://github.com/herpiko<br>
+https://linkedin.com/in/herpiko/<br>
+http://pdft.net<br>
 
 ## Employment
 
-- Senior DevOps Engineer, Peentar https://peentar.com Feb 2017 - Present.
-- DevOps Master and Mentor, Binar Academy https://binar.co.id March 2017 - Present.
-- Release Manager of BlankOn XI Uluwatu | https://github.com/blankon/Uluwatu Feb 2017 - May 2018
-- DevOps Engineer, GO-JEK https://go-jek.com Dec 2015 - Jan 2017.
-- System Administrator, Boer Technology https://btech.id June 2014 - Dec 2015.
+- Researcher, TNISiber https://tnisiber.id/ Nov 2016 - Present
+- Software Developer, KodeKreatif https://github.com/kodekreatif/ Oct 2014 - Present
+- System Administrator, Balai Karantina Pertanian Kls I Mataram http://mataram.karantina.pertanian.go.id/ Jan 2011 - Mar 2015
 
 ## Education
 
-- Informatics Engineering, UIN Sunan Kalijaga Yogyakarta, 2009-2014 3.26/4.00.
+- Informatic Engineering, STT Nurul Fikri, 2015 - Present
+- Informatic Engineering, STMIK Bumig2ora, 2013 - 2016
+- SMA Negeri 2 Mataram, 2007 - 2009
 
 ## Additional experience
 
-- Public Relation Team, BlankOn Project, Aug 2016 - Jan 2017.
-- Documentation Team, BlankOn Project, September 2012 - Aug 2016.
-- Event Coordinator Committee, openSUSE.Asia Summit 2016, Dec 2015 - Oct 2016.
-- Event Coordinator Committee, GNOME.Asia Summit 2015, Dec 2014 - June 2015.
+- Release Manager, BlankOn Project, Jul 2018 - Present
+- Research & Development Lead, BlankOn Project, Oct 2015 - Jul 2018
+- Artwork, BlankOn Project, 2011 - Oct 2015
+- FOSS Hactivist, GNU/Linux Bogor, May 2015 - Nov 2017
+- FOSS Hactivist, KPLI NTB, 
 
 ## Languages and technologies
 
-- Automation: Ansible, Chef
-- CI/CD: Gitlab-CI, Jenkins
-- Cloud Provider: AWS, GCE
-- Automated Testing: Calabash, Cucumber, Gherkin.
+- Languages : C++, Golang, JavaScript, Python, PHP
+- Stacks : Qt, NodeJS, Kubernetes
+- CI/CD: Gitlab-CI, Jenkins, Atlassian suite (JIRA, Bitbucket, Bamboo)
 
 ## References
 
-- Alamanda Shantika, CEO of Binar Academy, ashantika@binar.co.id.
-- Tonny Adhi Sabastian, CTO of Peentar, tonny@peentar.com.
-- Lutvi Rosyady. Head of Product at GO-JEK Indonesia. moorails@gmail.com.
-- Utian Ayuba. Executive Director of Btech. utian@btech.id.
 - Mohammad Anwari. Executive Director of BlankOn Project. mdamt@mdamt.net.
