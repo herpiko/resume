@@ -23,10 +23,11 @@ http://pdft.net<br>
 ## Additional experience
 
 - Release Manager, BlankOn Project, Jul 2018 - Present
+- Event organizer and contributor, Lombok Dev Meetup, 2017 - Present
 - Research & Development Lead, BlankOn Project, Oct 2015 - Jul 2018
 - Artwork, BlankOn Project, 2011 - Oct 2015
 - FOSS Hactivist, GNU/Linux Bogor, May 2015 - Nov 2017
-- FOSS Hactivist, KPLI NTB, 
+- FOSS Hactivist, KPLI NTB, May 2009 - Present
 
 ## Languages and technologies
 
